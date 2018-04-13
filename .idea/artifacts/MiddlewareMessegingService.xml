@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="MiddlewareMessegingService">
+    <output-path>$PROJECT_DIR$/out/artifacts/MiddlewareMessegingService</output-path>
+    <root id="archive" name="MiddlewareMessegingService.war">
+      <element id="javaee-facet-resources" facet="MiddlewareMessegingService/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="MiddlewareMessegingService" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
